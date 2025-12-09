@@ -177,24 +177,26 @@ npm start
 
 ### Скриншоты
 
-<!-- Вставьте скриншоты интерфейса здесь -->
-<!--
+
 1. Главная страница (Dashboard) с графиками и статистикой
+   <img width="1920" height="1082" alt="Screenshot 2025-12-09 at 18 59 18" src="https://github.com/user-attachments/assets/ae8645e0-4d8c-4095-b809-41818c0fbafe" />
+
+   
 2. Страница устройств с модальным окном деталей
+     <img width="1920" height="1082" alt="Screenshot 2025-12-09 at 18 58 54" src="https://github.com/user-attachments/assets/805ecb4e-e588-422f-825f-3a70c98e6d1c" />
+
+     
 3. Страница событий с оповещениями
+   <img width="1920" height="1082" alt="Screenshot 2025-12-09 at 18 59 03" src="https://github.com/user-attachments/assets/edc823c9-837f-42f0-9f36-19c0e152e1d4" />
+   
+
 4. Страница отчётов
--->
+<img width="1920" height="1082" alt="Screenshot 2025-12-09 at 18 59 13" src="https://github.com/user-attachments/assets/da314926-bbeb-4ecf-977f-0df71330931a" />
+
 
 ### Видео демонстрация
 
-<!-- Вставьте ссылку на видео или загрузите файл -->
-<!--
-Видео должно показывать:
-- Вход в систему
-- Просмотр оборудования и запуск прогноза
-- Появление событий в реальном времени
-- Генерацию отчёта
--->
+https://github.com/user-attachments/assets/fb691da0-1e83-49c7-9323-628fc4e8981d
 
 ## Комментарии заказчика
 
