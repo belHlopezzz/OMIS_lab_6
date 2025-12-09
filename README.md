@@ -200,7 +200,9 @@ https://github.com/user-attachments/assets/fb691da0-1e83-49c7-9323-628fc4e8981d
 
 ## Комментарии заказчика
 
-<!-- Вставьте отзыв заказчика о работе системы здесь -->
+
+<img width="1094" height="251" alt="Screenshot 2025-12-09 at 19 41 38" src="https://github.com/user-attachments/assets/4373ea8c-0cb4-4746-9ad2-712b08146acb" />
+
 
 ---
 
