@@ -1,7 +1,37 @@
 [project]
 name = "lab-6"
 version = "0.1.0"
-description = "Add your description here"
+description = "Система прогнозирования поломок оборудования"
 readme = "README.md"
-requires-python = ">=3.13"
-dependencies = []
+requires-python = ">=3.11"
+dependencies = [
+    # Web framework
+    "fastapi>=0.109.0",
+    "uvicorn[standard]>=0.27.0",
+    "python-multipart>=0.0.6",
+    
+    # Database
+    "sqlalchemy>=2.0.25",
+    
+    # Authentication
+    "pyjwt>=2.8.0",
+    "bcrypt>=4.0.0",
+    "email-validator>=2.0.0",
+    
+    # Data processing
+    "pandas>=2.2.0",
+    "numpy>=1.26.0",
+    
+    # Machine learning
+    "scikit-learn>=1.4.0",
+    "tensorflow>=2.15.0",
+    
+    # Reports
+    "reportlab>=4.0.0",
+    
+    # Mock data
+    "faker>=22.0.0",
+    
+    # Environment variables
+    "python-dotenv>=1.0.0",
+]
